@@ -20,7 +20,11 @@
 
 ## 대표 프로젝트
 
+VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이며, MoaPlan·Food Lab은 실제 실행 화면입니다.
+
 ### 01. Text Image VQA
+
+<a href="https://github.com/ssuinl/ssafy-text-vqa"><img align="right" width="40%" src="assets/vqa-evidence.svg" alt="기록된 리더보드 점수 추이 재시각화"></a>
 
 `4인 팀 · 팀장` · 2026 · PyTorch, Transformers, PEFT
 
@@ -31,9 +35,13 @@
 
 [프로젝트 상세 및 실험 노트북 →](https://github.com/ssuinl/ssafy-text-vqa)
 
+<br clear="all">
+
 ---
 
 ### 02. 부산 유휴 공유재산 분석
+
+<a href="https://github.com/ssuinl/busan-public-asset-analysis"><img align="right" width="40%" src="assets/busan-evidence.svg" alt="기록된 후보 선정 결과 재시각화"></a>
 
 `개인` · 2026.09 · pandas, NumPy, 공간 데이터 분석
 
@@ -43,6 +51,8 @@
 - **1차 행정 검토 후보 186건** — 실제 사업 대상 확정 아님
 
 [프로젝트 상세 및 분석 노트북 →](https://github.com/ssuinl/busan-public-asset-analysis)
+
+<br clear="all">
 
 ---
 
