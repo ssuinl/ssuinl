@@ -44,3 +44,7 @@
 - 우리은행 × SSAFY 우리WON뱅킹 아이디어 경진대회 장려상 (2026.11)
 - 통계청 재능기부단 영상공모전 우수상 (2022)
 - ADsP (2024.09)
+
+## Contact
+
+- Email: [suin020517@gmail.com](mailto:suin020517@gmail.com)
