@@ -33,7 +33,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 - **Public LB 0.95204 → 0.97438**
 - **검증 654/672문항 (97.32%)** — 반복 사용한 검증셋 기준
 
-[프로젝트 상세 및 실험 노트북 →](https://github.com/ssuinl/ssafy-text-vqa)
+[프로젝트 상세 및 실험 노트북](https://github.com/ssuinl/ssafy-text-vqa)
 
 <br clear="all">
 
@@ -50,7 +50,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 - **공유재산 10,102건 분석**
 - **1차 행정 검토 후보 186건** — 실제 사업 대상 확정 아님
 
-[프로젝트 상세 및 분석 노트북 →](https://github.com/ssuinl/busan-public-asset-analysis)
+[프로젝트 상세 및 분석 노트북](https://github.com/ssuinl/busan-public-asset-analysis)
 
 <br clear="all">
 
@@ -67,7 +67,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 - **3개 구조 · 27회 시나리오 평가**
 - **자동 테스트 56개 통과** — 당시 기록 기준
 
-[프로젝트 상세 및 설계·검증 문서 →](https://github.com/ssuinl/moaplan)
+[프로젝트 상세 및 설계·검증 문서](https://github.com/ssuinl/moaplan)
 
 <br clear="all">
 
@@ -84,7 +84,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 - **1,156건 색인 · 고유 레시피 1,149건**
 - **자동 테스트 13개 통과** — 당시 기록 기준
 
-[프로젝트 상세 및 검증 문서 →](https://github.com/ssuinl/food-lab-rag)
+[프로젝트 상세 및 검증 문서](https://github.com/ssuinl/food-lab-rag)
 
 <br clear="all">
 
