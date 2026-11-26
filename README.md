@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="이수인 · Data & AI — VQA Public LB 0.97438, 부산 공유재산 검토 후보 186건, MoaPlan 자동 테스트 56개" src="assets/header-light.svg" width="100%">
+  <img alt="이수인 · Data & AI — VQA 공식 최종 전체 8위, 부산 공유재산 검토 후보 186건, MoaPlan 자동 테스트 56개" src="assets/header-light.svg" width="100%">
 </picture>
 
 # 이수인 · Data & AI
@@ -30,6 +30,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 
 한국어 이미지 질의응답 모델의 학습과 확률 기반 앙상블을 설계했습니다. 학습·검증 데이터의 중복을 찾아 분리하고, 사전 채택 기준에 따라 실험을 비교했습니다.
 
+- **공식 최종 리더보드 전체 8위** (참가자 약 1,000명)
 - **Public LB 0.95204 → 0.97438**
 - **검증 654/672문항 (97.32%)** — 반복 사용한 검증셋 기준
 
@@ -121,6 +122,7 @@ VQA·부산 그래픽은 기존 실험·분석 기록을 재시각화한 것이�
 
 - 단국대학교 정보통계학과
 - SSAFY 16기 Python 트랙
+- SSAFY 16기 AI 챌린지 한국어 VQA 전체 8위 (2026, 4인 팀 팀장)
 - 우리은행 × SSAFY 우리WON뱅킹 아이디어 경진대회 장려상 (2026.11)
 - 통계청 재능기부단 영상공모전 우수상 (2022)
 
